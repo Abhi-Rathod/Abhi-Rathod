@@ -42,7 +42,7 @@
 ## 📫 Contact Me  
 
 <p align="left">
-  <a href="ar0261469@gmail.com">
+  <a href="abhirathod0259@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
